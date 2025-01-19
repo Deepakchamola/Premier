@@ -1,4 +1,4 @@
-# Premier Clone Website
+# Premier Website
 This repository contains a frontend of a idea website Premier, built for learning and practice purposes. The project demonstrates the use of modern web technologies such as HTML, CSS, responsive media query.
 
 ## Tech Stack
@@ -15,7 +15,7 @@ This repository contains a frontend of a idea website Premier, built for learnin
 <img src="https://github.com/Deepakchamola/Premier/blob/7fe5ef64d47358401693e22118e7a063d4de0527/Premier_ss.png" width="850" height />
 
 ## Live Demo
-Watch live demonstration of Premier website: [View Live]() 
+Watch live demonstration of Premier website: [View Live]( https://deepakchamola.github.io/Premier/) 
 
 ## License
 This project is open-source and available under the MIT License.
