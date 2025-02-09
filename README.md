@@ -12,7 +12,7 @@ This repository contains a frontend of a idea website Premier, built for learnin
 - Flexbox/Grid: Utilized Flexbox or CSS Grid for creating a flexible and responsive layout.
 
 ## Preview
-<img src="https://github.com/Deepakchamola/Premier/blob/7fe5ef64d47358401693e22118e7a063d4de0527/Premier_ss.png" width="850" height />
+<img src="https://github.com/Deepakchamola/Premier/blob/7fe5ef64d47358401693e22118e7a063d4de0527/Premier_ss.png" width="850" />
 
 ## Live Demo
 Watch live demonstration of Premier website: [View Live]( https://deepakchamola.github.io/Premier/) 
